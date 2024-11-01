@@ -1,0 +1,13 @@
+.shortcode-placeholder {
+	background:url("../img/shortcode.gif") no-repeat scroll 50% 50% #F2F8FF;
+	border:1px dashed #888888;
+	margin:4px;
+	width:19px;
+	height:19px;
+	display:inline-block;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	color:#03F;
+	cursor:default;
+	vertical-align:bottom;
+}
